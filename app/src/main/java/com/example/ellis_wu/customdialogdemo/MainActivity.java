@@ -16,7 +16,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+        //test git commit
         btn_open = (Button)findViewById(R.id.btn_open);
         btn_delay_open = (Button)findViewById(R.id.btn_delay_open);
 
